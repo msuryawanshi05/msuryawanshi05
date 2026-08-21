@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mukul+%F0%9F%91%8B;Cybersecurity+Undergrad;CTF+Player+%7C+Pentester;Breaking+Things+Ethically)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mukul+%F0%9F%91%8B;Cybersecurity+Undergrad;Builder+%7C+CTF+Player+%7C+Pentester;Breaking+Things+Ethically)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,8 +22,9 @@ Cybersecurity undergrad who codes, breaks, and builds focused on offensive secur
 ## 🌐 Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mtc05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/msuryawanshi1945)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukulsuryawanshi.1945@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/msuryawanshi05)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msuryawanshi.1945@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/msuryawanshi.05)
 
 ---
 
